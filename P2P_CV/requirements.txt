@@ -1,0 +1,16 @@
+numpy==1.26.1
+fastapi==0.95.2
+uvicorn[standard]==0.21.1
+python-dotenv==1.0.0
+python-telegram-bot==20.3
+pillow==10.1.0
+pytesseract==0.3.13
+opencv-python-headless==4.8.1.78
+PyMuPDF==1.23.5
+python-multipart==0.0.6
+requests==2.31.0
+
+
+
+
+
