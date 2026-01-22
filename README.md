@@ -3,3 +3,4 @@
 pip install -r requirements.txt
 #Запускаем проект python run.py
 #Используем в тг боте!
+# Link on bot: @p2phakatonbot
